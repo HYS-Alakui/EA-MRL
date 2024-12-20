@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="evaluate_Packing.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="finfout.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="run_code.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="init.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="upper_evaluate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="evaluate_FJSP.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rank_up.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rank_low.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="genetic_operation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="upper_crossover.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="upper_mutate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="upper_select.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lower_crossover.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lower_mutate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="low_level_optimization.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lower_select.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="update_archive.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lowlevel_optimization.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lowleveloptimization.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ds_operation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="evaluate_construction.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="evaluate_part_FJSP.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="local_search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="local_search1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="local_search2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="local_search3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="local_search4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="state_metric.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="local_search5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="local_search6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="local_search7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="out_result.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="paraller_search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="adaptive_search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="selection_next_pop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="local_search_IFCA.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="update_blemo_framework.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Item.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Qpacking.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headfile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Individual.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Chromosome.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RankSequ.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
